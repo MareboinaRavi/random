@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/51162616/132211411-2319e7d0-d831-4b49-bf71-1346ab6c3968.png)
 # Live demo
 [Click here](https://ravi-redux.netlify.app/).
 
